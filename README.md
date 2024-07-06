@@ -95,4 +95,4 @@ Contact:
 
   Prateek09102001
   
-  Project Link: [https://github.com/yourusername/cocktail-app](https://github.com/Prateek09102001/CockTail-App/edit/main)](https://github.com/Prateek09102001/CockTail-App?tab=readme-ov-file)
+  Project Link: [[https://github.com/yourusername/cocktail-app](https://github.com/Prateek09102001/CockTail-App/edit/main)](https://github.com/Prateek09102001/CockTail-App?tab=readme-ov-file)](https://github.com/Prateek09102001/CockTail-App/settings)
